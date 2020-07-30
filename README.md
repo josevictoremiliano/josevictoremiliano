@@ -6,6 +6,6 @@ In my free time I like to play (and watch) (🎮), to watch movies (🎞️) and
 
 Would you like to find me?
 
-[![Blog Badge](https://img.shields.io/badge/Blog-felipefialho.com-black)](https://josevictoremiliano.github.io/meuportifolio/)
+[![Blog Badge](https://img.shields.io/badge/Portifólio-Jvictor-black)](https://josevictoremiliano.github.io/meuportifolio/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/j_victorms)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/jose-victor-83334073/)
