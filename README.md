@@ -8,8 +8,8 @@ In my free time I like to play (and watch) (🎮), to watch movies (🎞️) and
 ## 👾&nbsp; GitHub Analytics
 
 <p align="center">
-<img width="370em" src="https://github-readme-stats.vercel.app/api?username=josevictoremiliano&show_icons=true&theme=tokyonight" alt="josevictoremiliano's stats"/>
-<img width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevictoremiliano&layout=compact&theme=tokyonight" alt="josevictoremiliano's most-used-languages"/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josevictoremiliano&" alt="josevictoremiliano" /></p>
 </p>
 
 
