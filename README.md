@@ -15,7 +15,7 @@ In my free time I like to play (and watch) (🎮), to watch movies (🎞️) and
 
 <h3>My Portifolio: <h3/>
 
-[![Blog Badge](https://img.shields.io/badge/Portifólio-Jvictor-blue)](https://josevictoremiliano.github.io/portiforlio/)
+[![Blog Badge](https://img.shields.io/badge/Portifólio-Jvictor-blue)](https://jotav.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
