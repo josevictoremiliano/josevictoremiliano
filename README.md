@@ -1,6 +1,6 @@
 ## 😁&nbsp; Hi there! 
 
-My name is Jose Victor from Brazil (🇧🇷). I am currently studying at IFRN, where I study computer science for the internet, knowing languages like NextJS, React, React Native PHP, JS, Python Django and others.
+My name is José Victor, I live in Brazil (🇧🇷). I am currently studying at UNP, where I study Systems Analysis and Development, I have a technical course in Internet Information Technology at IFRN. I know languages such as NextJS, React, React Native PHP, JS, C#, .NET, Python, Django and others.
 
 In my free time I like to play (and watch) (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music(🎶).
 <br>
