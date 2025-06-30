@@ -5,13 +5,6 @@ My name is José Victor, I live in Brazil (🇧🇷). I am currently studying at
 In my free time I like to play (and watch) (🎮), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music(🎶).
 <br>
 
-## 👾&nbsp; GitHub Analytics
-
-<p align="center">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josevictoremiliano&" alt="josevictoremiliano" /></p>
-</p>
-
 
 <h3>My Portifolio: <h3/>
 
